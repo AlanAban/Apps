@@ -15,7 +15,8 @@
 	<gap:plugin name="org.apache.cordova.media" />
 	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
-	<preference name="phonegap-version" value="7.0.1" />
+	<preference name='phonegap-version' value='cli-6.5.0' />
+	<preference name='pgb-builder-version' value='2' />
 	<preference name="target-device" value="universal" />
 
 	<!-- Optional splash screen image, e.g.: -->
